@@ -1,0 +1,90 @@
+/* 
+    Diafra Cheikhou Soumare 
+     Mama Diouf  
+*/
+
+
+#page{
+    color: #ffffff;
+    background-color: #181818;
+    text-align: center;
+    font-size: 150%;
+    width: 1000px;
+    margin-left: 180px;
+    margin-right: 180px;
+    
+}
+
+#fond{
+    
+    width: 1340px;
+    height: 350px;
+}
+
+/*aside, #page{
+    display: inline-block;
+    vertical-align: top;
+}*/
+
+aside{
+    position: relative;
+    
+}
+
+#fond2{
+    text-align: left;
+    width: 1340px;
+    height: 400px;
+    margin-top: 4px
+}
+
+#sec{
+    display: inline;
+}
+
+/*#fond2{
+    text-align: left;
+
+}*/
+
+#para{
+    font-family:  Pristina , forte;
+}
+
+#logo{
+    height: 72px;
+    width: 70px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px #181818;
+    margin-bottom: 80px;
+    margin-left: 20px;
+    position: absolute;
+
+}
+
+#liste{
+    text-align: justify;
+    margin-left: 300px;
+}
+
+marquee{
+    font-size: 150%;
+    color: #d86b11;
+    font-family: algerian ;
+    margin-left: 100px;
+}
+
+
+button{
+    color: #000000;
+    background-color: #d86b11;
+    height: 50px;
+    width: 130px;
+    font-size: 150%;
+    font-weight: bold;
+    border: #d86b11;
+    border-radius: 6px;
+    box-shadow: 3px 3px 6px #181818;
+    text-shadow: 1px 1px 1px #181818;
+    margin-bottom: 20px;
+}
